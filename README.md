@@ -31,3 +31,7 @@ A custom Gymnasium environment (`WarehouseEnv`) is implemented with:
 - Price level: 5 discrete levels  
 
 State representation:
+
+## Result Visualization
+![그림1](https://github.com/user-attachments/assets/50751f2f-4d25-43e8-bef3-248e38bbf114)
+![그림2](https://github.com/user-attachments/assets/73bbca30-a1d1-4a7e-81bf-cee6f7e7a493)
